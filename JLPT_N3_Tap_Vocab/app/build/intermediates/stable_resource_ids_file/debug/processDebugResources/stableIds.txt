@@ -1,0 +1,7 @@
+com.example.n3tapvocab:layout/activity_main = 0x7f020000
+com.example.n3tapvocab:id/root = 0x7f010003
+com.example.n3tapvocab:id/wordText = 0x7f010004
+com.example.n3tapvocab:id/progressText = 0x7f010001
+com.example.n3tapvocab:style/Theme.N3TapVocab = 0x7f030000
+com.example.n3tapvocab:id/readingText = 0x7f010002
+com.example.n3tapvocab:id/meaningText = 0x7f010000

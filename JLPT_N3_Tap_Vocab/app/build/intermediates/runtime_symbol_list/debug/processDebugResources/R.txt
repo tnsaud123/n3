@@ -1,0 +1,7 @@
+int id meaningText 0x7f010000
+int id progressText 0x7f010001
+int id readingText 0x7f010002
+int id root 0x7f010003
+int id wordText 0x7f010004
+int layout activity_main 0x7f020000
+int style Theme_N3TapVocab 0x7f030000

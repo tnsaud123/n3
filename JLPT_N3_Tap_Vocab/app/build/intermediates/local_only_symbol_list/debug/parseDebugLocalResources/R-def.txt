@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+id meaningText
+id progressText
+id readingText
+id root
+id wordText
+layout activity_main
+style Theme.N3TapVocab

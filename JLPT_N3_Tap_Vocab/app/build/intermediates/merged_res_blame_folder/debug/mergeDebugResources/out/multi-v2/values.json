@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.n3tapvocab.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspaces/n3/JLPT_N3_Tap_Vocab/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "447"
+                    }
+                }
+            ]
+        }
+    ]
+}
